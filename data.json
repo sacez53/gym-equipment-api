@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "nom": "Tapis de course",
+    "categorie": "Cardio",
+    "quantite": 4,
+    "etat": "Très bon",
+    "description": "Tapis de course professionnel pour entraînement cardio.",
+    "image": "/images/tapis-de-course.jpg"
+  },
+  {
+    "id": 2,
+    "nom": "Haltères",
+    "categorie": "Musculation",
+    "quantite": 12,
+    "etat": "Bon",
+    "description": "Paire d'haltères réglables.",
+    "image": "/images/halteres.jpg"
+  },
+  {
+    "id": 3,
+    "nom": "Vélo d'appartement",
+    "categorie": "Cardio",
+    "quantite": 6,
+    "etat": "Bon",
+    "description": "Vélo d'appartement avec résistance magnétique.",
+    "image": "/images/velo-appartement.jpg"
+  },
+  {
+    "id": 4,
+    "nom": "Rameur",
+    "categorie": "Cardio",
+    "quantite": 2,
+    "etat": "Neuf",
+    "description": "Rameur à résistance à air.",
+    "image": "/images/rameur.jpg"
+  }
+]

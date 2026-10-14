@@ -1,0 +1,27 @@
+{
+  "name": "gym-equipment-api",
+  "version": "1.0.0",
+  "description": "API REST pour gérer les équipements d'une salle de sport avec images intégrées",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "api",
+    "salle-de-sport",
+    "equipement",
+    "express",
+    "nodejs"
+  ],
+  "author": "Sacha G. Photographe",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
